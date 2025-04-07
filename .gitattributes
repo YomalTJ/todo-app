@@ -1,0 +1,8 @@
+# Always normalize to LF
+* text=auto
+
+# Explicitly force LF for specific file types
+*.js text eol=lf
+*.ts text eol=lf
+*.json text eol=lf
+*.sh text eol=lf
